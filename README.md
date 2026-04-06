@@ -50,11 +50,11 @@ while human zebrafish low similarity due to early evolutionary divergence.
 ![phylogenetic tree](https://github.com/kounen13/hemoglobin-gene-comparison-/blob/ce4603739886e9f36a06b4947e1f6f6f06da3e4e/Result/phylogenetic_tree.jpg)
 
 #### biological interpretation 
-**closest relative:** human and mice share most rcent common ancestry, shown by their close branching 
-**Divergence:** zebrafish most diverged compare to mice from human due to early divergence of fish
-**evolutionary divergence:** the braching order reflects history of evolution zebrafish(fish) diverged first
+##### **closest relative:** human and mice share most rcent common ancestry, shown by their close branching 
+##### **Divergence:** zebrafish most diverged compare to mice from human due to early divergence of fish
+##### **evolutionary divergence:** the braching order reflects history of evolution zebrafish(fish) diverged first
 then frog(amphibian) lastly mammals (human and mice)
-**branch length:** represent genetic ditance like zebrafish show 0.34 units change which is highest mean 
+##### **branch length:** represent genetic ditance like zebrafish show 0.34 units change which is highest mean 
 most genetically distinct species
 
 
