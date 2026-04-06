@@ -1,13 +1,13 @@
 # 🧬 hemoglobin-gene-comparison-
 It is bioinformatics project comparison of hemoglobin gene sequence of human, mice, frog, and zebrafish.  
 ### species usedd:
-......bash
+```bash
 homo sapiens (human)
 mus musculus (mouse)
 danio rerio (zebrafish)
 xenopus laevis (frog)
-.....
-### ✨📑 Data source
+```
+### 📑 Data source
 gene sequence were downloaded from NCBI database in FASTA format.
 
 ### 🎯Methods 
@@ -18,5 +18,12 @@ gene sequence were downloaded from NCBI database in FASTA format.
 5. construct phylogenetic tree by using **mega**
 6. made 3d protein structure using **UCSF ChimeraX**
 
-###📌 Tools used 
-FASTA dataset, Clustal omega, MEGA, UCSF ChimeraX, Github.
+### 📌Tools used 
+```bash FASTA dataset
+ Clustal omega
+ MEGA
+ NCBI 
+ UCSF ChimeraX
+ Github.```
+
+
