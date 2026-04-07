@@ -44,7 +44,14 @@ this table show evolutionary proximity through genetic similarity
 like human - mice have highest similarity due to mamalian ancestry 
 while human zebrafish low similarity due to early evolutionary divergence.
 
-### you can also see [alignment Here](https://github.com/kounen13/hemoglobin-gene-comparison-/blob/main/Result/alignment%20.jpg)
+### you can also see [alignment img Here](https://github.com/kounen13/hemoglobin-gene-comparison-/blob/main/Result/alignment%20.jpg)
+- The HBB gene sequences from different species were aligned using Clustal Omega.
+- The alignment shows how the sequences match across species.
+- The sequence alignment uses symbols to show similarity between species.
+- * means the amino acids are exactly the same in all sequences (highly conserved).
+- : means the amino acids are different but have similar properties.
+- . means the amino acids are slightly similar, while a blank space shows differences between sequences.
+
 
 ### phylogenetic tree
 
