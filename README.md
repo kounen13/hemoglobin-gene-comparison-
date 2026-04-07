@@ -1,6 +1,6 @@
 # 🧬 hemoglobin-gene-comparison-
 It is bioinformatics project comparison of hemoglobin gene sequence of human, mice, frog, and zebrafish.  
-### species usedd:
+### species used:
 ```bash
 homo sapiens (human)
 mus musculus (mouse)
