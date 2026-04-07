@@ -71,3 +71,12 @@ Here i measure Guanine and Cytosine percentage
 - can be use this formula G+C/A+T+G+C ×100
 - here i used [GC online calculator ](https://www.sciencebuddies.org/science-fair-projects/references/genomics-g-c-content-calculator)
 
+## 🧬 3d protein structure 
+![3D PROTEIN STRUCTURE](https://github.com/kounen13/hemoglobin-gene-comparison-/blob/6069675ca71d9a4f082ce45989d068526d297394/3d_protein_structure/hbb_structure_comparison.jpg)
+
+### structure analysis 
+- The 3D structure of the HBB protein was created by **using UCSF ChimeraX**.
+- The protein structures were downloaded from the AlphaFold Protein Structure Database using UniProt IDs.
+- The structures were shown in ribbon form to see the shape of the protein.
+- Images of the structures are compared for different species protein structure .
+
