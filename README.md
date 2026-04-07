@@ -86,4 +86,10 @@ Here i measure Guanine and Cytosine percentage
 - The protein structures were downloaded from the AlphaFold Protein Structure Database using UniProt IDs.
 - The structures were shown in ribbon form to see the shape of the protein.
 - Images of the structures are compared for different species protein structure .
-
+  
+## biological conclusion 
+- The results show that the HBB gene is highly conserved across different species.
+- Human and mouse sequences are very similar, showing their close evolutionary relationship.
+- Frog and zebrafish show more differences, which reflects greater evolutionary distance.
+- This conservation indicates that the HBB gene is important for the function of hemoglobin and oxygen transport in vertebrates.
+- Despite sequence variations, the overall protein structure and function remain largely preserved across vertebrates.
