@@ -17,6 +17,7 @@ gene sequence were downloaded from NCBI database in FASTA format.
 4. calculate sequence similarity between species with help of global alignment( needleman wunsch algorithm )
 5. construct phylogenetic tree by using **mega**
 6. made 3d protein structure using **UCSF ChimeraX**
+7. calculate G~C content %.
 
 ### 📌Tools used 
 ```bash
@@ -57,4 +58,16 @@ then frog(amphibian) lastly mammals (human and mice)
 - **branch length:** represent genetic ditance like zebrafish show 0.34 units change which is highest mean 
 most genetically distinct species
 
+## G~C content %
+
+|species  | count of G| count of C | G~C %  |
+|----------|----------|------------|--------|
+ |human |325 |320| 40.1|
+|mouse |161 |160 |51|
+|frog |382 |382 |35.9|
+|zebrafish |210 |212 |46.1|
+
+Here i measure Guanine and Cytosine percentage 
+- can be use this formula G+C/A+T+G+C ×100
+- here i used [GC online calculator ](https://www.sciencebuddies.org/science-fair-projects/references/genomics-g-c-content-calculator)
 
